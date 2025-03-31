@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é Felipe Machado</h1>
+<h1 align="center">Bem vindo ao meu portifólio</h1>
 <h3 align="center">Sou desenvolvedor Frontend, atualmente estou estudando e me capacitando para transição de carreira, busco trabalhar como programador.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fbmachado&label=Profile%20views&color=0e75b6&style=flat" alt="fbmachado" /> </p>
