@@ -1,5 +1,7 @@
-<h1 align="center">Bem vindo ao meu portifólio</h1>
+<h1 align="center">Bem vindo ao meu portifólio!!!</h1>
 <h3 align="center">Sou desenvolvedor Frontend, atualmente estou estudando e me capacitando para transição de carreira, busco trabalhar como programador.</h3>
+<h2>Minha visão sobre o desenvolvimento de programas transcende a mera criação de linhas de código. Para mim, é um ato de inovação, uma dança entre a lógica e a criatividade. Acredito que cada programa tem o potencial de ser uma obra de arte interativa, uma experiência que cative e inspire. 
+Acredito que a tecnologia tem o poder de transformar o mundo para melhor. Meu objetivo é usar minhas habilidades para criar programas que inspirem, eduquem e empoderem as pessoas, tornando o mundo um lugar mais criativo, conectado e inovador.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fbmachado&label=Profile%20views&color=0e75b6&style=flat" alt="fbmachado" /> </p>
 
