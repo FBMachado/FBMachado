@@ -1,13 +1,22 @@
 <h1 align="center">Bem vindo ao meu portifólio!!!</h1>
 <h3 align="center">Sou desenvolvedor Frontend, atualmente estou estudando e me capacitando para transição de carreira, busco trabalhar como programador.</h3>
-<h2>Minha visão sobre o desenvolvimento de programas transcende a mera criação de linhas de código. Para mim, é um ato de inovação, uma dança entre a lógica e a criatividade. Acredito que cada programa tem o potencial de ser uma obra de arte interativa, uma experiência que cative e inspire. 
-Acredito que a tecnologia tem o poder de transformar o mundo para melhor. Meu objetivo é usar minhas habilidades para criar programas que inspirem, eduquem e empoderem as pessoas, tornando o mundo um lugar mais criativo, conectado e inovador.</h2>
+<h2>
+Olá, eu sou o Felipe Machado 👋
+
+Sou desenvolvedor focado na criação de aplicações web. Atualmente, trabalho e estudo com as seguintes tecnologias:
+
+- *Front-end:* HTML5, CSS3, JavaScript, TypeScript e React
+- *Back-end:* Node.js
+- *Ferramentas & Versionamento:* Git, GitHub e VS Code
+
+📌 Confira abaixo alguns dos meus repositórios fixados para ver essas ferramentas na prática!
+</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fbmachado&label=Profile%20views&color=0e75b6&style=flat" alt="fbmachado" /> </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/felipe-machado-2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/felipe-machado-s-2k" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/felipe-machado-s-2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/felipe-machado-s-2k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
